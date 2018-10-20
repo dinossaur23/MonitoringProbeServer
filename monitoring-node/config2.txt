@@ -1,0 +1,1 @@
+{"name":"rpi_zero","url": "http://sensing-change.herokuapp.com/api/v1"}

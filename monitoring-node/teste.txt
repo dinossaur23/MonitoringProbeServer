@@ -1,0 +1,316 @@
+Mon May 14 2018 13:35:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+599.625
+Mon May 14 2018 13:36:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+594.375
+Mon May 14 2018 13:36:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+597.25
+Mon May 14 2018 13:36:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+604.125
+Mon May 14 2018 13:36:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+602.625
+Mon May 14 2018 13:37:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+598.875
+Mon May 14 2018 13:37:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+595.375
+Mon May 14 2018 13:37:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596.875
+Mon May 14 2018 13:37:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+595.375
+Mon May 14 2018 13:38:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+599.25
+Mon May 14 2018 13:38:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+608.625
+Mon May 14 2018 13:38:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+609
+Mon May 14 2018 13:38:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+603.375
+Mon May 14 2018 13:39:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+595.25
+Mon May 14 2018 13:39:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+606.125
+Mon May 14 2018 13:39:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596.125
+Mon May 14 2018 13:39:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+607.75
+Mon May 14 2018 13:40:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+609.75
+Mon May 14 2018 13:40:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+608.25
+Mon May 14 2018 13:40:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+599
+Mon May 14 2018 13:40:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+606.75
+Mon May 14 2018 13:41:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+598.625
+Mon May 14 2018 13:41:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+599.25
+Mon May 14 2018 13:41:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+609.5
+Mon May 14 2018 13:41:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+598.625
+Mon May 14 2018 13:42:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+597.25
+Mon May 14 2018 13:42:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+606.625
+Mon May 14 2018 13:42:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+608.625
+Mon May 14 2018 13:42:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+610.375
+Mon May 14 2018 13:43:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+608.5
+Mon May 14 2018 13:43:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+609
+Mon May 14 2018 13:43:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+597
+Mon May 14 2018 13:43:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+599.875
+Mon May 14 2018 13:44:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+604.375
+Mon May 14 2018 13:44:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+609
+Mon May 14 2018 13:44:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+604.875
+Mon May 14 2018 13:44:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+605.5
+Mon May 14 2018 13:45:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+598
+Mon May 14 2018 13:45:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596.375
+Mon May 14 2018 13:45:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+610
+Mon May 14 2018 13:45:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+595.875
+Mon May 14 2018 13:46:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+609.875
+Mon May 14 2018 13:46:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+608.125
+Mon May 14 2018 13:46:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+605.625
+Mon May 14 2018 13:46:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596.25
+Mon May 14 2018 13:47:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+608.75
+Mon May 14 2018 13:47:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+595.75
+Mon May 14 2018 13:47:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+597.875
+Mon May 14 2018 13:47:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+598.25
+Mon May 14 2018 13:48:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+611.125
+Mon May 14 2018 13:48:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+595.25
+Mon May 14 2018 13:48:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+608.875
+Mon May 14 2018 13:48:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+593.75
+Mon May 14 2018 13:49:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+608.625
+Mon May 14 2018 13:49:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+604
+Mon May 14 2018 13:49:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596.25
+Mon May 14 2018 13:49:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+610.125
+Mon May 14 2018 13:50:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+602.875
+Mon May 14 2018 13:50:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+602
+Mon May 14 2018 13:50:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+610.25
+Mon May 14 2018 13:50:48 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+593.875
+Mon May 14 2018 13:51:03 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+601.875
+Mon May 14 2018 13:51:18 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+597.25
+Mon May 14 2018 13:51:33 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+611.25
+Mon May 14 2018 13:51:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+610.375
+Mon May 14 2018 13:52:04 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+601
+Mon May 14 2018 13:52:19 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+606.5
+Mon May 14 2018 13:52:34 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+604.625
+Mon May 14 2018 13:52:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596.5
+Mon May 14 2018 13:53:04 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596.375
+Mon May 14 2018 13:53:19 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+607.75
+Mon May 14 2018 13:53:34 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+610.125
+Mon May 14 2018 13:53:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+593.625
+Mon May 14 2018 13:54:04 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+594.75
+Mon May 14 2018 13:54:19 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+605.375
+Mon May 14 2018 13:54:34 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+611.375
+Mon May 14 2018 13:54:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+594.875
+Mon May 14 2018 13:55:04 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+600.875
+Mon May 14 2018 13:55:19 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596.375
+Mon May 14 2018 13:55:34 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+610
+Mon May 14 2018 13:55:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596.375
+Mon May 14 2018 13:56:04 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+598.875
+Mon May 14 2018 13:56:19 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+609.875
+Mon May 14 2018 13:56:34 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+595
+Mon May 14 2018 13:56:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596.625
+Mon May 14 2018 13:57:04 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+608.125
+Mon May 14 2018 13:57:19 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+597.625
+Mon May 14 2018 13:57:34 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+602.25
+Mon May 14 2018 13:57:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+593.25
+Mon May 14 2018 13:58:04 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+597.375
+Mon May 14 2018 13:58:19 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+610
+Mon May 14 2018 13:58:34 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+595.625
+Mon May 14 2018 13:58:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+595.75
+Mon May 14 2018 13:59:04 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+597.625
+Mon May 14 2018 13:59:19 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+594.25
+Mon May 14 2018 13:59:34 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+603
+Mon May 14 2018 13:59:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+610.375
+Mon May 14 2018 14:00:04 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+600.375
+Mon May 14 2018 14:00:19 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+593.125
+Mon May 14 2018 14:00:34 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+602
+Mon May 14 2018 14:00:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+605
+Mon May 14 2018 14:01:04 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+600.75
+Mon May 14 2018 14:01:19 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+604.625
+Mon May 14 2018 14:01:34 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+596
+Mon May 14 2018 14:01:49 GMT+0000 (UTC) '\n\n\nReading sensors interval.\n\n'
+[ReferenceError: error is not defined]
+610.375
+                                                                                                                             
