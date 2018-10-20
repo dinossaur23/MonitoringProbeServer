@@ -1,6 +1,7 @@
 import os
 import glob
 import time
+import base64
 #import RPi.GPIO as GPIO
 import bluetooth 
 os.system('modprobe w1-gpio')
@@ -33,10 +34,12 @@ server_sock = bluetooth.BluetoothSocket( bluetooth.RFCOMM )
 print bluetooth.PORT_ANY
 server_sock.bind(("",bluetooth.PORT_ANY))
 server_sock.listen(1)
-db_file = open("/home/pi/monitoring-node/db/node.db","r")
+db_file = open("/home/pi/db/node.db","r")
 db_file = db_file.read()
+db_file = base64.encodestring(db_file)
 print len(db_file)
-#data1 = slice(0,-1,1024)
+iterator = 0
+finisher = 0
 #print "full data = "+ db_file[1]
 port = server_sock.getsockname()[1]
 uuid = "8bacc104-15eb-4b37-bea6-0df3ac364199"
@@ -47,14 +50,27 @@ while True:
     print "Accepted connection from ", client_info
     try:
         #for i in range (0,len(db_file)/1024):
-        data = client_sock.recv(340000)
+        data = client_sock.recv(1024)
         if len(data) == 0: break
         print "received [%s]" % data
         if data == 'temp':
-            data = db_file[0:1024]+"@"
+            if 980*(1+iterator) < len(db_file):
+                dataslice = slice(iterator*980,980*(1+iterator))
+                data = db_file[dataslice]+"@"
+            else:
+                dataslice = slice(iterator*980,len(db_file))
+                if db_file[dataslice] == "":
+                    data = "!"
+                else:
+                    data = db_file[dataslice]+"@"
+                    finisher = 1
+            iterator = iterator + 1
             print "db file = "+ db_file
+            if finisher == 1: 
+                #os.remove("/home/pi/monitoring-node/db/node.db
+                finisher = 1
         else:
-            data = 'WTF!' 
+            data = 'WTF!'
         client_sock.send(data)
         print "sending [%s]" % data
     except IOError:
